@@ -7,6 +7,8 @@
 **Date:** July 2025  
 **Goal:** Prepare an analytical report that identifies the key factors influencing customer satisfaction and loyalty across different regions, customer demographics, and support experience.
 
+[**Here is the Power BI Visualization File of this work**](https://github.com/ShafiiRJuma/Practical-Data-Analysis-using-Power-Bi/blob/main/Project%20Files/Customer%20Satisfaction%20and%20Loyalty%20Project/Omni%20Retail%20Customer%20Satisfaction%20and%20Loyalty%20Power%20BI%20Visualization.pdf)
+
 ## Introduction:
 Omni Retail is a US-based retail chain selling electronics and smart home products both online and through physical stores. In an effort to increase customer satisfaction and retention, the company collected customer experience data throughout 2024. The dataset includes satisfaction scores, purchasing behavior, demographics, support history, and geographic location.
 
